@@ -1,0 +1,5 @@
+<map id="Sculptor::cutVoxel" name="Sculptor::cutVoxel">
+<area shape="rect" id="node2" href="$class_cut_box.html#a0e7e856f22e31926719bef5a69685051" title="CutBox &#45; apaga uma caixa cujas dimensões são definidas pelos parametros abaixo. " alt="" coords="209,5,327,32"/>
+<area shape="rect" id="node3" href="$class_cut_ellipsoid.html#a341bcf037ada67c4727857b467d7788b" title="CutEllipsoid &#45; apaga um elipsóide cujas dimensões são definidas pelos parâmetros abaixo. " alt="" coords="183,56,353,83"/>
+<area shape="rect" id="node4" href="$class_cut_sphere.html#a12b9ccb665a11db650b47fedab71fddf" title="CutSphere &#45; apaga uma esfera de dimensões definidas pelos parâmetros abaixo. " alt="" coords="191,107,345,133"/>
+</map>
