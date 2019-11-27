@@ -1,0 +1,5 @@
+<map id="PutEllipsoid::PutEllipsoid" name="PutEllipsoid::PutEllipsoid">
+<area shape="rect" id="node2" href="$class_figura_geometrica.html#aee27036252200f2405af4e53b720b678" title="FiguraGeometrica::setColor Define a cor. " alt="" coords="221,5,404,32"/>
+<area shape="rect" id="node3" href="$class_sculptor.html#af1d69da01379874b0dfd6454787cb562" title="Sculptor::setColor Define uma cor para sua figura. As cores são normalizadas entre 0 e 1..." alt="" coords="249,56,376,83"/>
+<area shape="rect" id="node4" href="$class_sculptor.html#a4bdea3048b419d58e93074060eaa7b52" title="Sculptor::putVoxel Desenha um voxel e um lugar especifico da matriz. " alt="" coords="248,107,377,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Sculptor::setColor" name="Sculptor::setColor">
+<area shape="rect" id="node2" href="$class_put_box.html#a0cb7487b6058969a8a015842cf3257de" title="PutBox::PutBox Desenha uma caixa tendo como parâmetros os pontos abaixo. " alt="" coords="206,5,322,32"/>
+<area shape="rect" id="node3" href="$class_put_ellipsoid.html#a4b7bd5b2a9a879f093acf58e2c19055b" title="PutEllipsoid::PutEllipsoid Desenha um elipsoide, tendo como parâmetro o centro e os raios em cada coo..." alt="" coords="180,56,348,83"/>
+<area shape="rect" id="node4" href="$class_put_sphere.html#aad7d38e4406ef3cd77c6fd60c0b64e43" title="PutSphere::PutSphere Desenha uma esfera, tendo como parâmetro o centro e o raio. " alt="" coords="188,107,340,133"/>
+<area shape="rect" id="node5" href="$class_put_voxel.html#aba9a1d522ca6fbbd8c3ec2271c9e5c18" title="PutVoxel::PutVoxel Desenha um voxel de uma posição. " alt="" coords="196,157,332,184"/>
+<area shape="rect" id="node6" href="$class_sculptor.html#a014e3ef5517bf0e9d9e14486b6ac6433" title="Sculptor::Sculptor Método construtor que aloca uma matriz tridimensional de tamanho nx x ny x nz..." alt="" coords="201,208,327,235"/>
+</map>
