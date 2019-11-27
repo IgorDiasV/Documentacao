@@ -1,0 +1,5 @@
+<map id="PutBox::PutBox" name="PutBox::PutBox">
+<area shape="rect" id="node2" href="$class_figura_geometrica.html#aee27036252200f2405af4e53b720b678" title="FiguraGeometrica::setColor Define a cor. " alt="" coords="169,5,352,32"/>
+<area shape="rect" id="node3" href="$class_sculptor.html#af1d69da01379874b0dfd6454787cb562" title="Sculptor::setColor Define uma cor para sua figura. As cores são normalizadas entre 0 e 1..." alt="" coords="197,56,324,83"/>
+<area shape="rect" id="node4" href="$class_sculptor.html#a4bdea3048b419d58e93074060eaa7b52" title="Sculptor::putVoxel Desenha um voxel e um lugar especifico da matriz. " alt="" coords="196,107,325,133"/>
+</map>
