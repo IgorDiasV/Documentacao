@@ -1,5 +1,0 @@
-<map id="Sculptor::putVoxel" name="Sculptor::putVoxel">
-<area shape="rect" id="node2" href="$class_put_box.html#a0cb7487b6058969a8a015842cf3257de" title="PutBox &#45; desenha uma caixa cujas dimensões são definidas pelos parâmetro abaixo. " alt="" coords="209,5,325,32"/>
-<area shape="rect" id="node3" href="$class_put_ellipsoid.html#a4b7bd5b2a9a879f093acf58e2c19055b" title="PutEllipsoid &#45; desenha um elipsóide cujas dimensões são definidas pelos parâmetros abaixo..." alt="" coords="183,56,351,83"/>
-<area shape="rect" id="node4" href="$class_put_sphere.html#aad7d38e4406ef3cd77c6fd60c0b64e43" title="PutSphere &#45; desenha uma esfera de dimensões definidas pelos parâmetros abaixo. " alt="" coords="191,107,343,133"/>
-</map>
