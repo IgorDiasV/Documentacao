@@ -1,4 +1,0 @@
-<map id="PutSphere::PutSphere" name="PutSphere::PutSphere">
-<area shape="rect" id="node2" href="$class_sculptor.html#af1d69da01379874b0dfd6454787cb562" title="Sculptor::setColor &#45; define uma cor para sua escultura. As cores são normalizadas entre 0 e 1..." alt="" coords="207,5,333,32"/>
-<area shape="rect" id="node3" href="$class_sculptor.html#a4bdea3048b419d58e93074060eaa7b52" title="Sculptor::putVoxel &#45; desenha um voxel e um lugar especifico da matriz. " alt="" coords="205,56,335,83"/>
-</map>
